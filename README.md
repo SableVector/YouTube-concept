@@ -1,4 +1,4 @@
-﻿# YouTube-concept
+﻿# YouTube-concept - учебный проект Glo Academy
 Проект выполнил: Роман Лутченко
 
 ## Используемые технологии
